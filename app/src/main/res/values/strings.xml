@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">XML2</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_vista_individual">vista_individual</string>
+    <string name="id_A">ID</string>
+    <string name="comunidad">Comunidad</string>
+    <string name="mvz">MVZ</string>
+    <string name="telefono">Telefono</string>
+    <string name="perros">Perros</string>
+    <string name="gatos">Gatos</string>
+    <string name="title_activity_lista_vacunacion">lista_vacunacion</string>
+
+</resources>
